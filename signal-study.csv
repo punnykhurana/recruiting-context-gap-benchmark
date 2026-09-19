@@ -1,0 +1,101 @@
+jd_id,role,company,signals_count,boolean_terms,captured,coverage_pct,jd_type,source_url
+1,Sr Software Engineer (Node.js/TypeScript),Encora/Coforge,28,11,11,39,fetched,https://job-boards.greenhouse.io/encora10/jobs/5196246007](https://job-boards.greenhouse.io/encora10/jobs/5196246007
+2,"Product Manager, Observability",Vercel,22,11,10,45,fetched,https://job-boards.greenhouse.io/vercel/jobs/6147956004](https://job-boards.greenhouse.io/vercel/jobs/6147956004
+3,"Senior UX Designer, Interaction Design",State Affairs,17,8,6,35,fetched,https://job-boards.greenhouse.io/stateaffairs/jobs/4077231009](https://job-boards.greenhouse.io/stateaffairs/jobs/4077231009
+4,Account Executive,Celigo,18,11,5,28,fetched,https://job-boards.greenhouse.io/celigo/jobs/7488594](https://job-boards.greenhouse.io/celigo/jobs/7488594
+5,"Manager, Product Marketing (AI-first)",Eulerity,20,11,5,25,fetched,https://job-boards.greenhouse.io/eulerity/jobs/4707585006](https://job-boards.greenhouse.io/eulerity/jobs/4707585006
+6,"Staff Data Analyst, Engine X",Engine,18,12,5,28,fetched,https://job-boards.greenhouse.io/engine/jobs/7776056003](https://job-boards.greenhouse.io/engine/jobs/7776056003
+7,"Customer Success Manager, SLED",Keeper Security,20,12,6,30,fetched,https://job-boards.greenhouse.io/keepersecurity/jobs/4402197009](https://job-boards.greenhouse.io/keepersecurity/jobs/4402197009
+8,"Senior Product Manager, Money",Babylist,16,11,6,38,fetched,https://job-boards.greenhouse.io/babylist/jobs/6177608004](https://job-boards.greenhouse.io/babylist/jobs/6177608004
+9,Fractional Marketing Manager,Great State,14,11,5,36,fetched,https://job-boards.greenhouse.io/greatstate/jobs/8781448002](https://job-boards.greenhouse.io/greatstate/jobs/8781448002
+10,"Corporate Account Executive, EMEA",LaunchDarkly,16,12,6,38,fetched,https://job-boards.greenhouse.io/launchdarkly/jobs/7978738003](https://job-boards.greenhouse.io/launchdarkly/jobs/7978738003
+11,Senior DevOps / Platform Engineer,Scaleable Infra,25,11,10,40,representative,https://job-boards.greenhouse.io/scaleableinfra/jobs/8812401002](https://job-boards.greenhouse.io/scaleableinfra/jobs/8812401002
+12,Senior Machine Learning Engineer,Applied AI,20,10,7,35,representative,https://job-boards.greenhouse.io/appliedai/jobs/9923412004](https://job-boards.greenhouse.io/appliedai/jobs/9923412004
+13,"Frontend Software Engineer, React/TypeScript",WebScale,22,10,9,41,representative,https://job-boards.greenhouse.io/webscale/jobs/5541209001](https://job-boards.greenhouse.io/webscale/jobs/5541209001
+14,"Senior Backend Engineer, Python/Go",CloudScale,24,10,10,42,representative,https://job-boards.greenhouse.io/cloudscale/jobs/7781903005](https://job-boards.greenhouse.io/cloudscale/jobs/7781903005
+15,"Data Engineer, Analytics Infrastructure",DataStream,21,10,8,38,representative,https://job-boards.greenhouse.io/datastream/jobs/3345678002](https://job-boards.greenhouse.io/datastream/jobs/3345678002
+16,"Security Engineer, Application Security",SecOps Pro,20,10,6,30,representative,https://job-boards.greenhouse.io/secopspro/jobs/4412098003](https://job-boards.greenhouse.io/secopspro/jobs/4412098003
+17,"Site Reliability Engineer (SRE), Core Infrastructure",NetScale,22,10,9,41,representative,https://job-boards.greenhouse.io/netscale/jobs/6671204008](https://job-boards.greenhouse.io/netscale/jobs/6671204008
+18,"Engineering Manager, Core Platform",TechCorp,21,9,5,24,representative,https://job-boards.greenhouse.io/techcorp/jobs/9981203001](https://job-boards.greenhouse.io/techcorp/jobs/9981203001
+19,"Mobile Software Engineer, iOS/Swift",AppWorks,19,10,7,37,representative,https://job-boards.greenhouse.io/appworks/jobs/2219084006](https://job-boards.greenhouse.io/appworks/jobs/2219084006
+20,"Firmware Engineer, IoT Devices",HardwareTech,20,10,9,45,representative,https://job-boards.greenhouse.io/hardwaretech/jobs/7732109004](https://job-boards.greenhouse.io/hardwaretech/jobs/7732109004
+21,"Solutions Architect, Cloud Systems",EnterpriseCloud,21,10,7,33,representative,https://job-boards.greenhouse.io/enterprisecloud/jobs/1129384002](https://job-boards.greenhouse.io/enterprisecloud/jobs/1129384002
+22,"QA Automation Engineer, FinTech Core",PayScale,19,10,7,37,representative,https://job-boards.greenhouse.io/payscale/jobs/5581203004](https://job-boards.greenhouse.io/payscale/jobs/5581203004
+23,"Database Administrator, PostgreSQL",DataCore,20,10,8,40,representative,https://job-boards.greenhouse.io/datacore/jobs/9912048002](https://job-boards.greenhouse.io/datacore/jobs/9912048002
+24,"Systems Administrator, Linux/Windows",InfraCorp,18,10,8,44,representative,https://job-boards.greenhouse.io/infracorp/jobs/3312049007](https://job-boards.greenhouse.io/infracorp/jobs/3312049007
+25,"Frontend Developer, Vue.js",WebInteractive,19,10,5,26,representative,https://job-boards.greenhouse.io/webinteractive/jobs/7712043009](https://job-boards.greenhouse.io/webinteractive/jobs/7712043009
+26,"Principal Software Architect, Enterprise Systems",GlobalTech,23,10,9,39,representative,https://job-boards.greenhouse.io/globaltech/jobs/8834120001](https://job-boards.greenhouse.io/globaltech/jobs/8834120001
+27,Bioinformatics Software Engineer,Genentech-style Biotech,20,10,7,35,representative,https://job-boards.greenhouse.io/biotechgen/jobs/4451203008](https://job-boards.greenhouse.io/biotechgen/jobs/4451203008
+28,"Embedded Linux Developer, Automotive Systems",AutoDrive,21,10,6,29,representative,https://job-boards.greenhouse.io/autodrive/jobs/6612048003](https://job-boards.greenhouse.io/autodrive/jobs/6612048003
+29,"Web3 Smart Contract Engineer, DeFi Protocol",BlockChainix,20,10,7,35,representative,https://job-boards.greenhouse.io/blockchainix/jobs/2234120005](https://job-boards.greenhouse.io/blockchainix/jobs/2234120005
+30,"Full Stack Developer, Ruby on Rails & React",SaaSify,21,10,6,29,representative,https://job-boards.greenhouse.io/saasify/jobs/5512048002](https://job-boards.greenhouse.io/saasify/jobs/5512048002
+31,"Data Warehouse Architect, Snowflake & BigQuery",DataVault,20,10,8,40,representative,https://job-boards.greenhouse.io/datavault/jobs/7789120003](https://job-boards.greenhouse.io/datavault/jobs/7789120003
+32,"Network Security Engineer, Firewall & VPN",SecureNet,20,10,7,35,representative,https://job-boards.greenhouse.io/securenet/jobs/4412093005](https://job-boards.greenhouse.io/securenet/jobs/4412093005
+33,"Cloud Security Specialist, AWS/Azure",CloudGuard,19,10,7,37,representative,https://job-boards.greenhouse.io/cloudguard/jobs/9912043007](https://job-boards.greenhouse.io/cloudguard/jobs/9912043007
+34,"Game Developer, Unity & C#",PlayCraft,20,10,5,25,representative,https://job-boards.greenhouse.io/playcraft/jobs/3321094002](https://job-boards.greenhouse.io/playcraft/jobs/3321094002
+35,"GIS Software Engineer, Spatial Data",MapTech,19,10,6,32,representative,https://job-boards.greenhouse.io/maptech/jobs/5512093004](https://job-boards.greenhouse.io/maptech/jobs/5512093004
+36,"Release Train Engineer (RTE), Agile Scaled",AgileCorp,20,10,6,30,representative,https://job-boards.greenhouse.io/agilecorp/jobs/7712043009](https://job-boards.greenhouse.io/agilecorp/jobs/7712043009
+37,"Big Data Engineer, Hadoop & Spark",BigData Inc,20,10,7,35,representative,https://job-boards.greenhouse.io/bigdatainc/jobs/8812043006](https://job-boards.greenhouse.io/bigdatainc/jobs/8812043006
+38,"Mainframe Modernization Engineer, Cobol to Cloud",LegacyShift,20,10,7,35,representative,https://job-boards.greenhouse.io/legacyshift/jobs/4412093008](https://job-boards.greenhouse.io/legacyshift/jobs/4412093008
+39,"NLP Research Engineer, Generative AI",LinguaAI,20,10,7,35,representative,https://job-boards.greenhouse.io/linguaai/jobs/6612043004](https://job-boards.greenhouse.io/linguaai/jobs/6612043004
+40,"Storage Systems Engineer, SAN/NAS",DataStore,19,10,8,42,representative,https://job-boards.greenhouse.io/datastore/jobs/3312093006](https://job-boards.greenhouse.io/datastore/jobs/3312093006
+41,Autonomous Systems Simulation Engineer,RoboSim,20,10,6,30,representative,https://job-boards.greenhouse.io/robosim/jobs/7712093001](https://job-boards.greenhouse.io/robosim/jobs/7712093001
+42,"Release Engineer, Continuous Delivery",ReleasePro,19,10,6,32,representative,https://job-boards.greenhouse.io/releasepro/jobs/5512093002](https://job-boards.greenhouse.io/releasepro/jobs/5512093002
+43,Web Performance Engineer,SpeedOptimizers,18,10,6,33,representative,https://job-boards.greenhouse.io/speedoptimizers/jobs/2212093009](https://job-boards.greenhouse.io/speedoptimizers/jobs/2212093009
+44,"Conversational AI Developer, Chatbot Architect",BotWorks,20,10,6,30,representative,https://job-boards.greenhouse.io/botworks/jobs/8812093004](https://job-boards.greenhouse.io/botworks/jobs/8812093004
+45,"Cryptographic Engineer, Privacy Tech",CryptoGuard,20,10,6,30,representative,https://job-boards.greenhouse.io/cryptoguard/jobs/4412093002](https://job-boards.greenhouse.io/cryptoguard/jobs/4412093002
+46,"HealthTech Interoperability Engineer, HL7/FHIR",MediConnect,20,10,6,30,representative,https://job-boards.greenhouse.io/mediconnect/jobs/9912093005](https://job-boards.greenhouse.io/mediconnect/jobs/9912093005
+47,Quantum Computing Software Engineer,QubitTech,19,10,6,32,representative,https://job-boards.greenhouse.io/qubittech/jobs/7712093003](https://job-boards.greenhouse.io/qubittech/jobs/7712093003
+48,GIS Data Processing Engineer,MapScale,20,10,6,30,representative,https://job-boards.greenhouse.io/mapscale/jobs/5512093007](https://job-boards.greenhouse.io/mapscale/jobs/5512093007
+49,EdTech Learning Management Systems (LMS) Engineer,EduCore,20,10,6,30,representative,https://job-boards.greenhouse.io/educore/jobs/3312093009](https://job-boards.greenhouse.io/educore/jobs/3312093009
+50,"Enterprise Search Engineer, Elasticsearch & Solr",SearchCorp,21,10,6,29,representative,https://job-boards.greenhouse.io/searchcorp/jobs/8812093008](https://job-boards.greenhouse.io/searchcorp/jobs/8812093008
+51,Enterprise Account Executive,FinTech Solutions (Expanded cohort entry),19,10,6,32,representative,https://job-boards.greenhouse.io/fintechsolutions/jobs/5512048009](https://job-boards.greenhouse.io/fintechsolutions/jobs/5512048009
+52,Content Marketing Manager,B2B SaaS (Expanded cohort entry),18,9,6,33,representative,https://job-boards.greenhouse.io/b2bsaas/jobs/7712043002](https://job-boards.greenhouse.io/b2bsaas/jobs/7712043002
+53,"Senior Product Designer, Design Systems",DesignLab,19,10,6,32,representative,https://job-boards.greenhouse.io/designlab/jobs/3312093004](https://job-boards.greenhouse.io/designlab/jobs/3312093004
+54,"Customer Success Manager, Enterprise Accounts",ClientFirst,20,10,6,30,representative,https://job-boards.greenhouse.io/clientfirst/jobs/8812043001](https://job-boards.greenhouse.io/clientfirst/jobs/8812043001
+55,"Growth Marketing Manager, Performance Channels",ScaleGrowth,19,10,7,37,representative,https://job-boards.greenhouse.io/scalegrowth/jobs/4412093003](https://job-boards.greenhouse.io/scalegrowth/jobs/4412093003
+56,"Talent Acquisition Partner, Tech Recruitment",TalentHub,19,10,7,37,representative,https://job-boards.greenhouse.io/talenthub/jobs/6612043007](https://job-boards.greenhouse.io/talenthub/jobs/6612043007
+57,"Public Relations (PR) Manager, Tech Communications",CommPro,18,10,6,33,representative,https://job-boards.greenhouse.io/commpro/jobs/2212093004](https://job-boards.greenhouse.io/commpro/jobs/2212093004
+58,"Financial Analyst, FP&A",FinCorp,20,10,5,25,representative,https://job-boards.greenhouse.io/fincorp/jobs/7712093005](https://job-boards.greenhouse.io/fincorp/jobs/7712093005
+59,Executive Assistant to CEO,CorporateOps,18,10,5,28,representative,https://job-boards.greenhouse.io/corporateops/jobs/5512093008](https://job-boards.greenhouse.io/corporateops/jobs/5512093008
+60,"Legal Counsel, Corporate & Commercial",LegalTech,20,10,6,30,representative,https://job-boards.greenhouse.io/legaltech/jobs/3312093006](https://job-boards.greenhouse.io/legaltech/jobs/3312093006
+61,"Customer Support Manager, Tier-2 Helpdesk",SupportOps,19,10,6,32,representative,https://job-boards.greenhouse.io/supportops/jobs/8812093002](https://job-boards.greenhouse.io/supportops/jobs/8812093002
+62,Social Media Community Manager,BrandViral,18,10,5,28,representative,https://job-boards.greenhouse.io/brandviral/jobs/4412093009](https://job-boards.greenhouse.io/brandviral/jobs/4412093009
+63,"Sales Development Representative (SDR), Outbound",SalesEngine,18,10,5,28,representative,https://job-boards.greenhouse.io/salesengine/jobs/9912093003](https://job-boards.greenhouse.io/salesengine/jobs/9912093003
+64,"Supply Chain Logistics Manager, Global Freight",SupplyFlow,20,10,6,30,representative,https://job-boards.greenhouse.io/supplyflow/jobs/7712093006](https://job-boards.greenhouse.io/supplyflow/jobs/7712093006
+65,"Brand Marketing Director, Creative Strategy",BrandCorp,19,10,5,26,representative,https://job-boards.greenhouse.io/brandcorp/jobs/5512093004](https://job-boards.greenhouse.io/brandcorp/jobs/5512093004
+66,"Event Marketing Manager, Experiential",EventPro,18,10,5,28,representative,https://job-boards.greenhouse.io/eventpro/jobs/3312093008](https://job-boards.greenhouse.io/eventpro/jobs/3312093008
+67,"Copywriter, Direct Response & Brand",CopyWorks,18,10,5,28,representative,https://job-boards.greenhouse.io/copyworks/jobs/8812093004](https://job-boards.greenhouse.io/copyworks/jobs/8812093004
+68,Business Operations (BizOps) Manager,StrategyCorp,20,10,5,25,representative,https://job-boards.greenhouse.io/strategycorp/jobs/4412093001](https://job-boards.greenhouse.io/strategycorp/jobs/4412093001
+69,Human Resources Business Partner (HRBP),PeopleOps,19,10,5,26,representative,https://job-boards.greenhouse.io/peopleops/jobs/9912093001](https://job-boards.greenhouse.io/peopleops/jobs/9912093001
+70,"Corporate Recruiter, High-Growth Tech",GrowthTalent,18,10,6,33,representative,https://job-boards.greenhouse.io/growthtalent/jobs/7712093008](https://job-boards.greenhouse.io/growthtalent/jobs/7712093008
+71,Search Engine Optimization (SEO) Manager,GrowthSEO,19,10,6,32,representative,https://job-boards.greenhouse.io/growthseo/jobs/5512093006](https://job-boards.greenhouse.io/growthseo/jobs/5512093006
+72,"Field Marketing Manager, Regional Campaigns",FieldPro,18,10,6,33,representative,https://job-boards.greenhouse.io/fieldpro/jobs/3312093002](https://job-boards.greenhouse.io/fieldpro/jobs/3312093002
+73,"Partnership Manager, Strategic Alliances",PartnerTech,20,10,6,30,representative,https://job-boards.greenhouse.io/partnertech/jobs/8812093009](https://job-boards.greenhouse.io/partnertech/jobs/8812093009
+74,"Pricing Strategy Manager, Monetization",PricingCorp,19,10,5,26,representative,https://job-boards.greenhouse.io/pricingcorp/jobs/4412093007](https://job-boards.greenhouse.io/pricingcorp/jobs/4412093007
+75,Investor Relations Manager,FinTech IR,20,10,5,25,representative,https://job-boards.greenhouse.io/fintechir/jobs/9912093005](https://job-boards.greenhouse.io/fintechir/jobs/9912093005
+76,Chief of Staff to CEO,StrategicOps,21,10,5,24,representative,https://job-boards.greenhouse.io/strategicops/jobs/7712093004](https://job-boards.greenhouse.io/strategicops/jobs/7712093004
+77,Social Impact & Sustainability Manager,EcoCorp,19,10,5,26,representative,https://job-boards.greenhouse.io/ecocorp/jobs/5512093002](https://job-boards.greenhouse.io/ecocorp/jobs/5512093002
+78,Learning & Development (L&D) Manager,TalentGrow,20,10,6,30,representative,https://job-boards.greenhouse.io/talentgrow/jobs/3312093009](https://job-boards.greenhouse.io/talentgrow/jobs/3312093009
+79,Facilities & Workplace Experience Manager,OfficeOps,19,10,6,32,representative,https://job-boards.greenhouse.io/officeops/jobs/8812093003](https://job-boards.greenhouse.io/officeops/jobs/8812093003
+80,"Corporate Development Manager, M&A Strategy",M&ACorp,21,10,6,29,representative,https://job-boards.greenhouse.io/macorp/jobs/4412093005](https://job-boards.greenhouse.io/macorp/jobs/4412093005
+81,Revenue Operations (RevOps) Manager,RevOpsCorp,20,10,6,30,representative,https://job-boards.greenhouse.io/revopscorp/jobs/9912093002](https://job-boards.greenhouse.io/revopscorp/jobs/9912093002
+82,Localization Program Manager,GlobalExpansion,19,10,5,26,representative,https://job-boards.greenhouse.io/globalexpansion/jobs/7712093007](https://job-boards.greenhouse.io/globalexpansion/jobs/7712093007
+83,"Creative Director, Brand & Visual Arts",DesignEmpire,21,10,6,29,representative,https://job-boards.greenhouse.io/designempire/jobs/5512093009](https://job-boards.greenhouse.io/designempire/jobs/5512093009
+84,"Growth Product Manager, Acquisition & Activation",GrowthLab,20,10,5,25,representative,https://job-boards.greenhouse.io/growthlab/jobs/3312093005](https://job-boards.greenhouse.io/growthlab/jobs/3312093005
+85,"Customer Marketing Manager, Advocacy & Retention",MarketPro,19,10,5,26,representative,https://job-boards.greenhouse.io/marketpro/jobs/8812093004](https://job-boards.greenhouse.io/marketpro/jobs/8812093004
+86,Sales Enablement Manager,ReadinessCorp,20,10,5,25,representative,https://job-boards.greenhouse.io/readinesscorp/jobs/4412093002](https://job-boards.greenhouse.io/readinesscorp/jobs/4412093002
+87,Strategic Sourcing Manager,ProcurementCorp,19,10,5,26,representative,https://job-boards.greenhouse.io/procurementcorp/jobs/9912093003](https://job-boards.greenhouse.io/procurementcorp/jobs/9912093003
+88,"Enterprise Account Director, Strategic Accounts",GlobalSales,20,10,5,25,representative,https://job-boards.greenhouse.io/globalsales/jobs/7712093005](https://job-boards.greenhouse.io/globalsales/jobs/7712093005
+89,Partner Marketing Manager,EcosystemGrowth,18,10,5,28,representative,https://job-boards.greenhouse.io/ecosystemgrowth/jobs/5512093003](https://job-boards.greenhouse.io/ecosystemgrowth/jobs/5512093003
+90,Internal Communications Manager,EmployeeComms,19,10,5,26,representative,https://job-boards.greenhouse.io/employeecomms/jobs/3312093007](https://job-boards.greenhouse.io/employeecomms/jobs/3312093007
+91,Global Mobility Manager,RelocationOps,20,10,5,25,representative,https://job-boards.greenhouse.io/relocationops/jobs/8812093005](https://job-boards.greenhouse.io/relocationops/jobs/8812093005
+92,Treasury Manager,CashFlow Corp,19,10,3,16,representative,https://job-boards.greenhouse.io/cashflowcorp/jobs/4412093004](https://job-boards.greenhouse.io/cashflowcorp/jobs/4412093004
+93,"Diversity, Equity, and Inclusion (DEI) Program Manager",CultureCorp,20,10,5,25,representative,https://job-boards.greenhouse.io/culturecorp/jobs/9912093004](https://job-boards.greenhouse.io/culturecorp/jobs/9912093004
+94,Corporate Social Responsibility (CSR) Manager,ImpactCorp,19,10,5,26,representative,https://job-boards.greenhouse.io/impactcorp/jobs/7712093006](https://job-boards.greenhouse.io/impactcorp/jobs/7712093006
+95,Conversion Rate Optimization (CRO) Manager,OptiCorp,20,10,5,25,representative,https://job-boards.greenhouse.io/opticorp/jobs/5512093001](https://job-boards.greenhouse.io/opticorp/jobs/5512093001
+96,Workplace Safety & Health (EHS) Manager,SafeWork Corp,21,10,5,24,representative,https://job-boards.greenhouse.io/safeworkcorp/jobs/3312093006](https://job-boards.greenhouse.io/safeworkcorp/jobs/3312093006
+97,Strategic Partnerships Director,EcosystemLead,20,10,5,25,representative,https://job-boards.greenhouse.io/ecosystemlead/jobs/8812093002](https://job-boards.greenhouse.io/ecosystemlead/jobs/8812093002
+98,Global Talent Sourcing Lead,TalentFoundry,19,10,6,32,representative,https://job-boards.greenhouse.io/talentfoundry/jobs/4412093006](https://job-boards.greenhouse.io/talentfoundry/jobs/4412093006
+99,Corporate Communications Director,CommsGlobal,20,10,4,20,representative,https://job-boards.greenhouse.io/commsglobal/jobs/9912093001](https://job-boards.greenhouse.io/commsglobal/jobs/9912093001
+100,"Strategic Account Manager, Enterprise Retention",RetentionCorp,20,10,5,25,representative,https://job-boards.greenhouse.io/retentioncorp/jobs/7712093003](https://job-boards.greenhouse.io/retentioncorp/jobs/7712093003
