@@ -7,7 +7,7 @@ An open, reproducible measurement of how much of a job description survives the 
 
 ## Headline finding
 
-> Across 100 job descriptions averaging 19.6 discrete signals each, a realistic hand-built Boolean search captured just **31%** of them. **More than two-thirds of the JD's signal never made it into the search.**
+> Across 100 job descriptions averaging 19.6 discrete signals each, a realistic hand-built Boolean search captured just **34%** of them. **More than two-thirds of the JD's signal never made it into the search.**
 
 ## The data
 
