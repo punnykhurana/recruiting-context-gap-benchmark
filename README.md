@@ -3,7 +3,7 @@
 An open, reproducible measurement of how much of a job description survives the translation into a hand-built Boolean search string.
 
 **Author:** Pankaj Khurana (firki.ai)
-**Study date:** September 19, 2026 · **n = 100** job descriptions
+**Study date:** September 26, 2026 · **n = 100** job descriptions
 
 ## Headline finding
 
@@ -19,7 +19,7 @@ Full per-JD working (numbered signals, the reconstructed Boolean, captured-vs-lo
 
 ## Methodology (summary)
 
-1. **JD collection** — 100 postings: 10 fetched in full from public job boards (Greenhouse-hosted, Sep 19, 2026; source URL recorded per JD) plus 90 representative postings across tech and non-tech roles. Cohort is roughly 43% tech / 57% non-tech.
+1. **JD collection** — 100 postings: 10 fetched in full from public job boards (Greenhouse-hosted, Sep 26, 2026; source URL recorded per JD) plus 90 representative postings across tech and non-tech roles. Cohort is roughly 50% tech / 50% non-tech.
 2. **Signal extraction** — each JD reduced to discrete, searchable facts ("signals"): hard skills, tools, seniority indicators, domain/industry terms, qualifications, meaningful qualifiers. One analyst's consistent scheme, applied uniformly.
 3. **Hand-built Boolean** — for each JD, the Boolean a competent sourcer would plausibly hand-build in a few minutes (~10 terms, title variants, core skills, obvious OR-expansions). Realistic, not a strawman.
 4. **Coverage scoring** — signals captured by the Boolean counted generously (clear synonyms and strong implications count). Coverage = captured ÷ total signals.
